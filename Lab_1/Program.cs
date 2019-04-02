@@ -19,7 +19,7 @@ namespace Lab_1
                 Console.WriteLine("Squaring the difference a and b equals {0} ", c);
             }
             else
-                Console.WriteLine("Тhe root of a negative number is not extracted");
+                Console.WriteLine("Тhe root of a negative number is not extracted ");
         }
     }
 }
